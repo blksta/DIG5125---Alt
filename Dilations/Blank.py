@@ -24,7 +24,7 @@ def processed_image(filename):
 
     else:
         print('Image A is a Grayscale Image, no conversion needed')
-        return image
+        return ImageA
 
 
 imagepath = processed_image('Tester\mandrill2.jpg')
